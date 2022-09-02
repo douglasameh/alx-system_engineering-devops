@@ -1,1 +1,1 @@
-Executable Permissions
+Executable permissions
