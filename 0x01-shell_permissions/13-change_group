@@ -1,1 +1,2 @@
-Ghange group
+#!/bin/bash
+chgrp school hello
