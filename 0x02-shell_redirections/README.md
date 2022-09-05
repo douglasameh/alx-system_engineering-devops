@@ -6,3 +6,4 @@
 4. Last lines of a file -> a script that display the last 10 lines of /etc/passwd
 5. I'd prefer the first ones actually -> A script to display the first 10 line of /etc/passwd
 6. Line #2 -> Script that display the third line of a file
+7. It is a good file that cuts iron without making a noise -> It is a good file that cuts iron without making a noise
